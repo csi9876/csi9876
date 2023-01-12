@@ -4,16 +4,6 @@
 
 파이썬
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csi9876)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csi9876&show_icons=true&theme=radical)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csi9876&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csi9876&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csi9876&show_icons=true)
 
 
