@@ -6,4 +6,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=csi9876)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csi9876&theme=aura&show_icons=true)
 
